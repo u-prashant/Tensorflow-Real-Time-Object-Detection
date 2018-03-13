@@ -58,4 +58,4 @@ Your patches are welcome. Here's suggested workflow:
  
 * Fork the project.
 * Make your feature addition or bug fix.
-* Send us a pull request with a description of your work. Bonus points for topic branches!
+* Send me a pull request with a description of your work. Bonus points for topic branches!
