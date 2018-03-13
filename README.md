@@ -5,7 +5,7 @@ This project aims to achieve object detection using Tensorflow and OpenCv.
 ![Object_Detection_Video](https://github.com/u-prashant/Tensorflow-Real-Time-Object-Detection/blob/master/object.gif)
 
 ## Screenshot
-![Object_Detected_Image](https://github.com/u-prashant/Tensorflow-Real-Time-Object-Detection/blob/master/object2.png)
+![Object_Detected_Image](https://github.com/u-prashant/Tensorflow-Real-Time-Object-Detection/blob/master/object3.jpg)
 
 
 ## Setup 
